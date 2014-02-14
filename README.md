@@ -15,16 +15,6 @@ horus
    		script.js   
 	 img/
 	 htaccess.
-	 
-<h3>شرح اهم فايلات الاستايل و الاسكريبت</h3>
- 
- <link rel="stylesheet" href="css/arabic.responsive.min.css"><br />
- <link rel="stylesheet" href="css/style.css"><br />
- <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"><br />
-<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script><br />
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script><br />
-<script src="js/script.js"></script><br />
 				
 				
 <h3>تغير عرض القالب</h3> 
