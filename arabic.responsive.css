@@ -1,3 +1,11 @@
+/*
+Theme Name: arabic responsive framework
+Author: Amro Eldewiny
+Authour URI: http://arabic-html.com
+Description: First demo for the template framwork
+Version: 1.0
+*/
+
 /*===================================================
                       HTML5 Resat
 =====================================================*/
@@ -311,7 +319,8 @@ img {
 *,*:after,*:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .row {
@@ -347,6 +356,10 @@ img {
 }
 
 .row .col2 {
+  width: 14.364640883%
+}
+
+.row .col2-helf {
   width: 14.364640883%
 }
 
@@ -414,21 +427,21 @@ img {
     width: 100%
   }
 
-  .row .col3-helf{
+  .row .col3-helf,.row .col2-helf{
     width: 47%;
     float:right;
     display: inline-block;
     margin-left: 5.8%;
   }
   
-  .row .col3-helf:nth-child(2){
-    margin-left: 0;
+  .row .col3-helf:nth-child(even),.row .col2-helf:nth-child(even){
+     margin-left: 0; 
   }
 }
 
 @media only screen and (max-width:480px) {
 
-  .row .col3-helf{
+  .row .col3-helf,.row .col2-helf{
     float: none;
     display: block;
     width: 100%;
