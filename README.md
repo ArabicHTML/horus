@@ -8,20 +8,20 @@ horus
 <h3>شكل الملف كامل بجميع محتوياتة</h3>
 
 	 	index.html
-	 	CSS
+	 	CSS >
 	 		
  			arabic.responsive.css
  			arabic.responsive.min.css
  			effects.css
  			effects.min.css
  			style.css
-	 	Less
+	 	Less >
 	 		reset.less
 	 		grid.less
 	 		effects.less
 	 		style.less
 	 		style.css
-	 	js
+	 	js >
 	 		script.js
 	 	img
 	 	.htaccess
