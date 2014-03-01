@@ -10,11 +10,11 @@ horus
 	 	index.html
 	 	CSS
 	 		
-	 			arabic.responsive.css
-	 			arabic.responsive.min.css
-	 			effects.css
-	 			effects.min.css
-	 			style.css
+ 			arabic.responsive.css
+ 			arabic.responsive.min.css
+ 			effects.css
+ 			effects.min.css
+ 			style.css
 	 	Less
 	 		reset.less
 	 		grid.less
